@@ -38,7 +38,8 @@ DEVELOPMENT ROADMAP:
 8.Explain words based on their sentence context.
 9.Text and improve the application.
 
-PROJECT STATUS:
+PROJECT GOAL:
 My goal is to build a simple and useful reading assistant that helps people improve  their vocabulary, pronunciation, and English comprehension while enjoying their favorite books.
 
-
+PROJECT STATUS:
+Currently on planning and early development.
